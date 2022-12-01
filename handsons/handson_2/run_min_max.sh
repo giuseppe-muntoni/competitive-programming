@@ -1,0 +1,11 @@
+cargo run --release --bin min_max < min_max/test_set/input0.txt | diff - min_max/test_set/output0.txt
+cargo run --release --bin min_max < min_max/test_set/input1.txt | diff - min_max/test_set/output1.txt
+cargo run --release --bin min_max < min_max/test_set/input2.txt | diff - min_max/test_set/output2.txt
+cargo run --release --bin min_max < min_max/test_set/input3.txt | diff - min_max/test_set/output3.txt
+cargo run --release --bin min_max < min_max/test_set/input4.txt | diff - min_max/test_set/output4.txt
+cargo run --release --bin min_max < min_max/test_set/input5.txt | diff - min_max/test_set/output5.txt
+cargo run --release --bin min_max < min_max/test_set/input6.txt | diff - min_max/test_set/output6.txt
+cargo run --release --bin min_max < min_max/test_set/input7.txt | diff - min_max/test_set/output7.txt
+cargo run --release --bin min_max < min_max/test_set/input8.txt | diff - min_max/test_set/output8.txt
+cargo run --release --bin min_max < min_max/test_set/input9.txt | diff - min_max/test_set/output9.txt
+cargo run --release --bin min_max < min_max/test_set/input10.txt | diff - min_max/test_set/output10.txt

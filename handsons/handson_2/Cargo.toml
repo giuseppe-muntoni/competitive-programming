@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "min_max",
+    "queries_and_ops",
+]
