@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+   "holiday_planning",
+   "xmas_lights",
+]
